@@ -22,7 +22,7 @@ def _start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕️ ADD MIZUHARA TO YOUR GROUP 🐣", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+                        "➕️ ADD ME TO YOUR GROUP 🐣", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                          [
                     InlineKeyboardButton(
                         "📮 UPDATE CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"), 
